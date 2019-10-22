@@ -1,2 +1,4 @@
 # hello-world
-Just the same repository
+Hello fellow coders!
+
+Im Toneri, I like python and c++ , I also like them soft chocolate cookies ...
